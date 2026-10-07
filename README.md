@@ -1,8 +1,12 @@
 # Mercado Pessoal
 
-Projeto pessoal para organizar compras e futuramente comparar preços e outros dados do cotidiano.
+Projeto pessoal desenvolvido para praticar programação e criar uma ferramenta útil para minhas compras.
 
-## Versão atual
+## Objetivo
+
+Começar com uma lista de compras simples e evoluir gradualmente para comparação de preços, histórico, promoções e outras ferramentas.
+
+## Versão
 
 v0.1.0
 
@@ -10,17 +14,13 @@ v0.1.0
 
 - Adicionar produtos
 - Remover produtos
-- Criar uma lista de compras
 
 ## Tecnologias
 
 - Python
 - Jupyter Notebook
-- Git
-- GitHub
 
-## Próximos passos
+## Projeto de aprendizagem
 
-- Adicionar quantidade
-- Adicionar preço
-- Calcular total da compra
+Este projeto faz parte do meu processo de aprendizagem
+em programação.
